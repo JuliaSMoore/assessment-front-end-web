@@ -46,6 +46,12 @@ body {
       margin-right: 2em;
       display: inline;
   }
+
+  .goals {
+    display: block;
+    border-radius: 10%;
+    border: 2px dotted black;
+  }
   
   a {
       color: orange;
